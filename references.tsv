@@ -52,15 +52,17 @@ Anti-Reference	Negative	louis-vuitton	Louis Vuitton	https://us.louisvuitton.com/
 Anti-Reference	Negative	ferrari	Ferrari	https://www.ferrari.com/	Loud status, red spectacle, aggressive wealth cues.
 Anti-Reference	Negative	bellagio	Las Vegas Maximalism - Bellagio	https://bellagio.mgmresorts.com/en.html	Gold, crystal, dazzle, scale-as-luxury.
 Anti-Reference	Negative	caesars-palace	Las Vegas Maximalism - Caesars Palace	https://www.caesars.com/caesars-palace	Gold, crystal, dazzle, scale-as-luxury.
+Anti-Reference	Negative	wynn-vegas	Las Vegas Maximalism - Wynn / Encore	https://www.wynnlasvegas.com/	Polished resort opulence; useful as a boundary for scale-as-luxury.
+Anti-Reference	Negative	fontainebleau-vegas	Las Vegas Maximalism - Fontainebleau Las Vegas	https://www.fontainebleaulasvegas.com/	High-gloss suite spectacle; avoid making Pearl feel performative or theatrical.
 Anti-Reference	Tension	ritz-carlton	Ritz-Carlton	https://www.ritzcarlton.com/	Keep service ethos; avoid inherited ornate formality.
 Tension / Study	Tension	wheels-up	Wheels Up	https://wheelsup.com/	Lifestyle events useful; mass-access tone is wrong.
-Tension / Study	Tension	dorsia	Dorsia	https://www.dorsia.com/	Guaranteed table mechanic; avoid flexy impossible tone.
+Digital Product	Positive	dorsia	Dorsia	https://www.dorsia.com/	Guaranteed table mechanic, editorial venue discovery, and high-status utility without crowd rankings.
 Tension / Study	Study	mastercard-priceless	Mastercard Priceless	https://www.priceless.com/	Access-as-emotion; make quieter and more personal.
 Tension / Study	Tension	capital-one-venture-x	Capital One Venture X	https://www.capitalone.com/credit-cards/venture-x/	Lounge proof point; avoid premium-for-everyone dilution.
 Tension / Study	Study	quintessentially	Quintessentially	https://www.quintessentially.com/	Little-black-book mechanic; tone can get too flashy.
 Tension / Study	Study	ten-lifestyle	Ten Lifestyle	https://tenlifestylegroup.com/	AI/human concierge validation; less corporate visual style.
 Tension / Study	Tension	knightsbridge-circle	Knightsbridge Circle	https://www.knightsbridgecircle.com/	Scarcity and closed doors; avoid gold-flex luxury.
-Tension / Study	Tension	velocity-black	Velocity Black	https://velocity.black/	Message-it-and-it-is-done UX; avoid loud limitless tone.
+Digital Product	Positive	velocity-black	Velocity Black	https://velocity.black/	Message-it-and-it-is-done concierge UX; use the confident service model while keeping Pearl warmer and more grounded.
 Tension / Study	Tension	the-twenty-two	The Twenty Two	https://www.thetwentytwo.com/london/	Taste-filter club; skip maximalist decor.
 Tension / Study	Tension	annabels	Annabel's & Birley	https://annabels.co.uk/	Host intimacy and vetting; not theatrical interiors.
 Tension / Study	Tension	home-house	Home House	https://www.homehouse.co.uk/	Boundary marker for access becoming too soft.
