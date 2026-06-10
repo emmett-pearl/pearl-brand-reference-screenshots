@@ -1,0 +1,75 @@
+category	status	slug	name	url	note
+Hospitality	Positive	aman	Aman	https://www.aman.com/	Silence, space, white space, destination imagery.
+Hospitality	Positive	aman-amangiri	Aman Amangiri	https://www.aman.com/resorts/amangiri	Actual Aman hotel architecture, desert context, sanctuary.
+Hospitality	Positive	aman-new-york-hotel	Aman New York Hotel	https://www.aman.com/hotels/aman-new-york	Actual Aman urban hotel atmosphere and club-adjacent restraint.
+Hospitality	Positive	places-by-raya	Places by Raya	https://placesbyraya.com/	Actual app UI, curator cards, maps, invitation feel.
+Hospitality	Positive	les-sources-de-caudalie	Les Sources de Caudalie	https://www.sources-caudalie.com/en/	Warm vineyard luxury and soft hospitality imagery.
+Private Travel	Positive	netjets	NetJets	https://www.netjets.com/en-us/	Guaranteed access, ownership logic, restrained jet luxury.
+Private Travel	Positive	vistajet	VistaJet	https://www.vistajet.com/	Signature red stripe, global private-world system.
+Private Travel	Positive	belmond	Belmond / Orient Express	https://www.belmond.com/	Heritage, ceremony, romance, craft.
+Private Travel	Positive	tcs-world-travel	TCS World Travel	https://www.tcsworldtravel.com/	Private-jet expeditions with refinement over spectacle.
+Private Travel	Positive	le-collectionist	Le Collectionist	https://www.lecollectionist.com/	Curated villas, concierge, not comprehensive.
+Private Travel	Positive	the-thinking-traveller	The Thinking Traveller	https://www.thethinkingtraveller.com/	Local expertise, exclusive villas, Mediterranean warmth.
+Private Travel	Positive	four-seasons-private-jet	Four Seasons Private Jet	https://www.fourseasons.com/privatejet/	Warm service, itinerary ceremony, premium clarity.
+Private Clubs	Positive	aman-club	Aman Club	https://www.aman.com/hotels/aman-new-york	Invitation, sanctuary, urban quiet luxury.
+Private Clubs	Positive	67-pall-mall	67 Pall Mall	https://www.67pallmall.com/	Taste-filtered membership and wine-lover specificity.
+Private Clubs	Positive	casa-cipriani	Casa Cipriani	https://www.casacipriani.com/	Waitlist, privacy, no-photo culture, classic hospitality as protection.
+Private Clubs	Positive	zero-bond	Zero Bond	https://zerobondny.com/	Unmarked door, deep black, discretion.
+Private Clubs	Positive	core-club	CORE: Club	https://thecoreclub.com/	Belonging, cultural programming, visionary member world.
+Private Clubs	Positive	maximes	Maxime's	https://www.maximesclub.com/	Old-world privacy and off-Instagram curation.
+Private Clubs	Positive	san-vicente	San Vicente Clubs	https://www.sanvicenteclubs.com/	Nomination, no-phones privacy, intimate rooms.
+Concierge / Access	Positive	exclusive-resorts	Exclusive Resorts	https://exclusiveresorts.com/	Open-the-door service, residence club, time as luxury.
+Concierge / Access	Positive	abercrombie-kent	Abercrombie & Kent	https://www.abercrombiekent.com/	Human journey designers and expert-led access.
+Concierge / Access	Positive	original-travel	Original Travel	https://www.originaltravel.co.uk/	Tailor-made detail and little extras.
+Concierge / Access	Positive	inspirato	Inspirato	https://www.inspirato.com/	Certainty, owned collection, subscription access.
+Concierge / Access	Positive	black-tomato	Black Tomato	https://www.blacktomato.com/	Named experiences and adventure without chaos.
+Concierge / Access	Positive	scott-dunn	Scott Dunn	https://www.scottdunn.com/us	Feeling-led luxury travel and bespoke planning.
+Access Cards	Positive	amex-centurion	Amex Centurion	https://www.americanexpress.com/en-us/benefits/centurion/by-invitation-only.html	Weighted artifact, silence, invite-only proof.
+Access Cards	Positive	resy	Resy	https://resy.com/	Notify mechanic, access alerting, restaurant UX.
+Luxury Goods	Positive	loro-piana	Loro Piana	https://ii.loropiana.com/en/	No-logo material proof and quiet product imagery.
+Luxury Goods	Positive	loro-piana-product	Loro Piana Product Detail	https://ii.loropiana.com/en/man	Material proof, product restraint, tactile fabric detail.
+Luxury Goods	Positive	brunello-cucinelli	Brunello Cucinelli	https://shop.brunellocucinelli.com/en-us/	Philosophy, warm humanism, origin story.
+Luxury Goods	Positive	brunello-product	Brunello Cucinelli Product Detail	https://shop.brunellocucinelli.com/en-us/men/	Actual garments, warm product styling, humanism through materials.
+Luxury Goods	Positive	bottega-veneta	Bottega Veneta	https://www.bottegaveneta.com/en-us	Signature technique replacing logo.
+Luxury Goods	Positive	bottega-product	Bottega Veneta Product Detail	https://www.bottegaveneta.com/en-us/men/bags	Actual woven product detail and technique.
+Luxury Goods	Positive	goyard	Goyard	https://www.goyard.com/	Withholding, mystique, discreet pattern.
+Luxury Goods	Positive	goyard-product	Goyard Product Detail	https://www.goyard.com/us_en/maison-goyard.html	Product mystique, pattern discipline, craft world.
+Luxury Goods	Positive	hermes	Hermes	https://www.hermes.com/us/en/	Warm accent color, craft, maker story.
+Luxury Goods	Positive	hermes-product	Hermes Product Detail	https://www.hermes.com/us/en/category/women/bags-and-small-leather-goods/bags-and-clutches/	Actual object craft, warm accent, product as artifact.
+Luxury Goods	Positive	patek-philippe	Patek Philippe	https://www.patek.com/	Stewardship, human warmth, one-line copy.
+Luxury Goods	Positive	patek-product	Patek Philippe Product Detail	https://www.patek.com/en/collection/all-models	Actual watches, precision, heirloom object language.
+Luxury Goods	Positive	apple	Apple	https://www.apple.com/	One hero per view, invisible UI, clarity.
+Luxury Goods	Positive	rolls-royce	Rolls-Royce	https://www.rolls-roycemotorcars.com/	Whispered power, ceremony, reductive geometry.
+Luxury Goods	Positive	rolls-royce-product	Rolls-Royce Product Detail	https://www.rolls-roycemotorcars.com/en_GB/showroom.html	Actual car/product presentation, ceremonial detail.
+Luxury Goods	Positive	restoration-hardware	Restoration Hardware	https://rh.com/	Warm neutrals and oversized gallery presentation.
+Luxury Goods	Positive	rh-gallery	Restoration Hardware Gallery	https://rh.com/us/en/catalog/category/products.jsp?categoryId=cat160024	Warm neutral objects, gallery merchandising.
+Luxury Goods	Positive	aesop	Aesop	https://www.aesop.com/us/	Literary copy, culture, apothecary restraint.
+Luxury Goods	Positive	le-labo	Le Labo	https://www.lelabofragrances.com/	Personalized artifact and visible craft theater.
+Luxury Goods	Positive	le-labo-product	Le Labo Product Detail	https://www.lelabofragrances.com/santal-33-147.html	Actual bottle, label, personalization as artifact.
+Digital Product	Positive	perplexity	Perplexity	https://www.perplexity.ai/	Answer-first AI and content-forward simplicity.
+Digital Product	Positive	manus	Manus	https://manus.im/	Agent UI, thinking state, live trace.
+Digital Product	Positive	apple-music	Apple Music	https://www.apple.com/apple-music/	Editorial cards and content-derived color.
+Digital Product	Positive	amex-app	Amex App	https://www.americanexpress.com/en-us/support/digital/amex-mobile-app/	Card-as-hero and calm premium utility.
+Digital Product	Positive	oura	Oura	https://ouraring.com/	Humanize a cold category with warm technology and a physical artifact.
+Digital Product	Positive	journey	Journey	https://www.journey.com/	Boutique-hotel app UI, loyalty tiers, lookbook onboarding.
+Editorial / Travel	Positive	conde-nast-traveller	Conde Nast Traveller	https://www.cntraveler.com/	Editor-vetted authority, travel photography, serif/sans split.
+Editorial / Travel	Positive	the-rume	The Rume	https://rumemagazine.com/	Lists and practical information can still feel designed.
+Anti-Reference	Negative	beli	Beli	https://beliapp.com/	Crowd ranking, social feed, leaderboards to avoid.
+Anti-Reference	Negative	louis-vuitton	Louis Vuitton	https://us.louisvuitton.com/eng-us/homepage	Logo saturation and monogram maximalism.
+Anti-Reference	Negative	ferrari	Ferrari	https://www.ferrari.com/	Loud status, red spectacle, aggressive wealth cues.
+Anti-Reference	Negative	bellagio	Las Vegas Maximalism - Bellagio	https://bellagio.mgmresorts.com/en.html	Gold, crystal, dazzle, scale-as-luxury.
+Anti-Reference	Negative	caesars-palace	Las Vegas Maximalism - Caesars Palace	https://www.caesars.com/caesars-palace	Gold, crystal, dazzle, scale-as-luxury.
+Anti-Reference	Tension	ritz-carlton	Ritz-Carlton	https://www.ritzcarlton.com/	Keep service ethos; avoid inherited ornate formality.
+Tension / Study	Tension	wheels-up	Wheels Up	https://wheelsup.com/	Lifestyle events useful; mass-access tone is wrong.
+Tension / Study	Tension	dorsia	Dorsia	https://www.dorsia.com/	Guaranteed table mechanic; avoid flexy impossible tone.
+Tension / Study	Study	mastercard-priceless	Mastercard Priceless	https://www.priceless.com/	Access-as-emotion; make quieter and more personal.
+Tension / Study	Tension	capital-one-venture-x	Capital One Venture X	https://www.capitalone.com/credit-cards/venture-x/	Lounge proof point; avoid premium-for-everyone dilution.
+Tension / Study	Study	quintessentially	Quintessentially	https://www.quintessentially.com/	Little-black-book mechanic; tone can get too flashy.
+Tension / Study	Study	ten-lifestyle	Ten Lifestyle	https://tenlifestylegroup.com/	AI/human concierge validation; less corporate visual style.
+Tension / Study	Tension	knightsbridge-circle	Knightsbridge Circle	https://www.knightsbridgecircle.com/	Scarcity and closed doors; avoid gold-flex luxury.
+Tension / Study	Tension	velocity-black	Velocity Black	https://velocity.black/	Message-it-and-it-is-done UX; avoid loud limitless tone.
+Tension / Study	Tension	the-twenty-two	The Twenty Two	https://www.thetwentytwo.com/london/	Taste-filter club; skip maximalist decor.
+Tension / Study	Tension	annabels	Annabel's & Birley	https://annabels.co.uk/	Host intimacy and vetting; not theatrical interiors.
+Tension / Study	Tension	home-house	Home House	https://www.homehouse.co.uk/	Boundary marker for access becoming too soft.
+Tension / Study	Tension	soho-house	Soho House	https://www.sohohouse.com/	Cautionary tale: over-scaling kills mystique.
+Tension / Study	Negative	neuehouse	NeueHouse	https://www.neuehouse.com/	Cachet without economics; avoid work-club blandness.
